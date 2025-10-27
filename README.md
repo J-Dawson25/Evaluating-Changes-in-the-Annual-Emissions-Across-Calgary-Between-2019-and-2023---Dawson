@@ -5,7 +5,7 @@ This project analysed the changed in the emissions of carbon monoxide (CO), nitr
 ## Folder Structure
 The "Data" folder contains five zipped folders: "City_Boundary", "Community_District_Boundaries", "Interpolated_Emissions_Rasters", "Processed_Emissions_Data", and "Raw_Emissions_Data". The "City_Boundary" zipped folder contains the unaltered shapefile of the city boundary for Calgary from The City of Calgary's Open Data Portal. The "Community_District_Boundaries" zipped folder contains the unalterd shapefile of the community boundaries in Calgary from The City of Calgary's Open Data Portal. The "Interpolated_Emissions_Rasters" zipped folder contains five sub-folders, each sub-folder contains the interpolated emissions rasters for each of the pollutants for a single year. The "Processed_Emissions_Data" zipped folder also contains five sub-folders, each sub-folder contains the emissions data for a single year stored as five separate CSV files (one file for each pollutant). Lastly, the "Raw_Emissions_Data" zipped folder contains the original emissions datasets from the Government of Canada's Open Government portal. There are five datasets in this folder, one for each year, stored as Excel spreadsheets. The metadata for these datasets is in a sheet inside each of the Excel files. 
 
-The "Final_Maps" folder contains five JPEG files. Each JPEG file is the final map layouts, visualizing the changes in each pollutant between 2019 and 2023 across Calgary.
+The "Final_Maps" folder contains five JPEG files. Each JPEG file is the final map layout for a single pollutant, which visualizes the change in the emissions of the pollutant between 2019 and 2023 across Calgary.
 
 ## Coordinate Reference System
 Calgary 3TM WGS 1984 W114
