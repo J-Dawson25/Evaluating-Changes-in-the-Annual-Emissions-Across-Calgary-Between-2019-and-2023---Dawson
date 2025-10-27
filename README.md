@@ -11,13 +11,13 @@ The "Final_Maps" folder contains five JPEG files. Each JPEG file is the final ma
 Calgary 3TM WGS 1984 W114
 
 ## Data Sources
-### Emissions Data:
+#### Emissions Data:
 Government of Canada. (2025). Single year data tables by facility – releases, transfers and disposals. [Dataset]. Open Government Portal. Retrieved September 21, 2025, from https://open.canada.ca/data/en/dataset/1fb7d8d4-7713-4ec6-b957-4a882a84fed3.
 
-### City of Calgary Boundary Layer:
+#### City of Calgary Boundary Layer:
 The City of Calgary. (2025a). City Boundary. [Dataset]. Open Calgary. Retrieved October 1, 2025, from https://data.calgary.ca/Base-Maps/City-Boundary/7t9h-2z9s.
 
-### Community Boundaries in Calgary Layer:
+#### Community Boundaries in Calgary Layer:
 The City of Calgary. (2025b). Community Boundaries. [Dataset]. Open Calgary. Retrieved September 21, 2025, from https://data.calgary.ca/Base-Maps/Community-Boundaries/ab7m-fwn6.
 
 ## Processing Steps
