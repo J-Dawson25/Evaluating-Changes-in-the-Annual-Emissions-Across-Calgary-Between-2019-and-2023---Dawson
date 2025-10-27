@@ -12,3 +12,4 @@ The City of Calgary. (2025a). City Boundary. [Dataset]. Open Calgary. Retrieved 
 Community Boundaries in Calgary Layer:
 The City of Calgary. (2025b). Community Boundaries. [Dataset]. Open Calgary. Retrieved September 21, 2025, from https://data.calgary.ca/Base-Maps/Community-Boundaries/ab7m-fwn6.
 
+## Coordinate Reference System
