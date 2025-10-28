@@ -23,5 +23,5 @@ The City of Calgary. (2025b). Community Boundaries. [Dataset]. Open Calgary. Ret
 ## Processing Steps
 The emissions data from the Government of Canada was filtered to only include the emissions of CO, NO2, PM2.5, SO2, and VOC for Calgary, Alberta. Each of the filtered datasets were then carefully reviewed to identify and remove the duplicate entries. Once these datasets had been filtered and had duplicate entries removed, the emissions data for each pollutant were separated into individual sheets in Excel for each year. The datasets were then converted into points in ArcGIS Pro. The emissions point layers, the community boundaries layer, and the boundary of Calgary layer were all projected into the “Calgary 3TM WGS 1984 W114” projected coordinate system. A new polygon layer was created in ArcGIS Pro which encompassed Calgary and the surrounding area. The emissions points were clipped to this polygon so that points just outside of Calgary would be included in the interpolations. The clipped points for each pollutant were then interpolated for each year. The interpolated rasters were then clipped to the city boundary layer for Calgary.
 
-## Contact
+## Contact Information
 If you have any questions or concerns please email me at jessamyn.dawson@ucalgary.ca.
